@@ -1,9 +1,10 @@
 # Redux toolkit
 
 1.firstly we should create a Store..
- Store = configureStore({
+
+` Store = configureStore({
     reducer: {}
-})
+})`
 
 2.make a initial state of your Items.     `initialState : {}`
    
